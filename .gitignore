@@ -1,0 +1,23 @@
+
+# IDE settings
+.idea
+.cache
+
+
+examples/
+configs/subst_generators/additional_code/
+results/
+tsar/
+scripts/
+lexsubgen/hyperparam_search/
+lexsubgen/lexsubcon/generalized_average_precision.py
+lexsubgen/lexsubcon/checkpoint/
+lexsubgen/lexsubcon/src/
+metrics/analysis/
+metrics/coinco/
+metrics/gap_test/
+metrics/semeval/
+
+deets
+
+

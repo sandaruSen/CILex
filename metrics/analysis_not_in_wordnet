@@ -1,0 +1,35 @@
+['Electronic theft by foreign and industrial spies and disgruntled employees is costing u. s. companies billions and eroding their international competitive advantage .',
+'foreign', 'foreign',
+ ['alien', 'strange', 'remote', 'immigrant', 'exotic', 'estrange'],
+  '["overseas", "international", "abroad", "national", "government", "governmental", "commercial", "industrial", "illegal", "corporate", "governments", "domestic", "external", "terrorist", "chinese", "terrorists", "military", "political", "alien", "foreigners"]']
+
+ ['And then you must forgive me for being so forward .',
+ 'then', 'then',
+ ['so', 'thus', 'subsequently', 'later', 'afterwards'],
+  '["now", "therefore", "that", "also", "so", "thus", "though", "yet", "here", "again", "surely", "even", "perhaps", "first", "finally", "all", "maybe", "sometimes", "if", "eventually"]']
+
+  ['Goody products inc. cut its quarterly dividend to five cents a share from 11.5 cents a share .',
+  'quarterly', 'quarterly',
+  ['periodic', 'semester', 'seasonal', 'quarter period', 'four month', '3 month'],
+  '["annual", "monthly", "yearly", "periodic", "weekly", "daily", "quarter", "annually", "biennial", "regular", "2011", "diluted", "shareholder", "2012", "2013", "2006", "interim", "2017", "2009", "2016"]']
+
+  ['Iraq clears visit by ohio official',
+  'official', 'official',
+  ['authority', 'representative', 'politician', 'statesman', 'leader', 'head', 'executive', 'director', 'bureaucrat', 'ambassador'],
+  '["chief", "president", "delegation", "government", "envoy", "commissioner", "administrator", "minister", "state", "ambassador", "diplomat", "executive", "governor", "lawmaker", "legislator", "senator", "politician", "congressman", "unofficial", "officially"]']
+
+  ['" and he said he felt like he was having an out of body experience . "',
+  'body', 'body',
+  ['self', 'flesh'],
+  '["mind", "bodily", "physical", "consciousness", "head", "sensory", "skin", "life", "world", "space", "presence", "brain", "person", "control", "limb", "physique", "hand", "plane", "place", "state"]']
+
+['He shrugged lightly .',
+'shrugged', 'shrug',
+ ['motion', 'gesture', 'turn', 'nod', 'move his shoulder', 'lurch', 'jerk'],
+  '["shake", "sigh", "scoff", "nod", "reply", "pause", "smile", "grin", "grunt", "wink", "hesitate", "shudder", "laugh", "chuckle", "blink", "swallow", "frown", "wince", "groan", "snort"]']
+
+
+['The house walls shifted from pink to lavender .',
+ 'walls', 'wall',
+ ['surface', 'facade', 'wall treatment', 'sidewall', 'side', 'partition', 'panel', 'drywall', 'divider', 'confine', 'board'],
+ '["color", "interior", "room", "wallpaper", "curtain", "window", "facade", "floor", "decor", "colour", "painting", "door", "decoration", "paint", "border", "furnishing", "light", "ceiling", "furniture", "slowly"]']
