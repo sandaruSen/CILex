@@ -32,6 +32,13 @@ Results of the ablation study are presented in the following table.
 If you use our work, please cite our paper:
 
 
+## Acknowledgement
+
+The implementation of CILex relies on resources from [XLNet+embs](https://github.com/Samsung/LexSubGen/tree/main/lexsubgen)
+and [LexSubCon](https://github.com/gmichalo/LexSubCon/) and we thank the authors for their support. 
+
+The code is implemented using [PyTorch](https://github.com/pytorch/pytorch).
+
 
 
 
