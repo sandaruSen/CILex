@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/sandaruSen/cilex/blob/main/figs/architecture.png?raw=true)
 
-["CILex: An Investigation of Context Information for Lexical Substitution Methods "](https://www.aclweb.org/anthology/2022.coling-main./), 
+["CILex: An Investigation of Context Information for Lexical Substitution Methods "](https://aclanthology.org/2022.coling-1.362.pdf), 
 In Proceedings of the 29th International Conference on Computational Linguistics, 2022
 
 Sandaru Seneviratne, Elena Daskalaki, Artem Lenskiy, Hanna Suominen 
@@ -30,6 +30,18 @@ Results of the ablation study are presented in the following table.
 
 ### Citation
 If you use our work, please cite our paper:
+
+
+
+```
+@inproceedings{seneviratne2022cilex,
+  title={CILex: An Investigation of Context Information for Lexical Substitution Methods},
+  author={Seneviratne, Sandaru and Daskalaki, Elena and Lenskiy, Artem and Suominen, Hanna},
+  booktitle={Proceedings of the 29th International Conference on Computational Linguistics},
+  pages={4124--4135},
+  year={2022}
+}
+```
 
 
 ## Acknowledgement
